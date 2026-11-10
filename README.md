@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Will Jacks — Marvelous Products
 
-<!--
-**MarvelousProducts/MarvelousProducts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites, landing pages and AI assistant systems for small businesses.
 
-Here are some ideas to get you started:
+**Services**
+- Business websites & landing pages (WordPress / custom)
+- AI chat & voice assistants (24/7 replies + calendar booking)
+- Booking systems, online ordering & Google Business Profile setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live work**
+- Agency: https://marvelous-products.netlify.app/
+- Demos: https://marvelous-demos.netlify.app/
+- Restaurant QR ordering demo: https://mp-qr-ordering.pages.dev
+
+**Contact:** aliimehtab4578@gmail.com
